@@ -9,9 +9,6 @@ The database is build from the ground up using PostgreSQL and implements seeder 
 
 ## Installation
 
-### Online with Heroku
-You can access the api by clicking on this link {link to heroku}.
-
 ### Local
 
 Requirements:
